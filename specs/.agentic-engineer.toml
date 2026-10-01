@@ -1,0 +1,4 @@
+apiVersion = "agentic-engineer/v1"
+name = "s0-p0base-1001a"
+createdAt = "2026-10-01T16:38:31Z"
+idea = "A small Go HTTP service called greeter. GET /hello?name=X returns a JSON greeting."
