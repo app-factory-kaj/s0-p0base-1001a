@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Developers building demos, integrations, or test harnesses often need a tiny, reliable HTTP endpoint to call that returns a predictable, personalized response — without standing up or configuring a real business service. Today they either hardcode a fake response or reuse a heavier internal service that was never meant for this purpose. S0 marker s0-p0base-1001a.
+Developers building demos, integrations, or test harnesses often need a tiny, reliable HTTP endpoint to call that returns a predictable, personalized response — without standing up or configuring a real business service. Today they either hardcode a fake response or reuse a heavier internal service that was never meant for this purpose. S0 marker s0-p0base-1001a. S0 run2 marker.
 
 ## Solution
 
