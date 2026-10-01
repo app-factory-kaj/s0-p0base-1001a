@@ -1,0 +1,14 @@
+{
+  "name": "greeter",
+  "type": "service",
+  "version": "0.1.0",
+  "language": "Go",
+  "buildpack": "docker",
+  "appPath": "greeter",
+  "entrypoint": "deployment/service",
+  "exposure": "internet",
+  "dependencies": [],
+  "description": "A single-responsibility HTTP service exposing GET /hello, which returns a JSON greeting personalized by an optional name query parameter, defaulting to a generic greeting when name is missing or empty. It holds no state, requires no sign-in, and exposes no endpoint beyond /hello.",
+  "stories": [1, 2],
+  "skillsPinned": ["openapi-conventions", "go"]
+}
